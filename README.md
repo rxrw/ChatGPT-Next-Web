@@ -1,4 +1,5 @@
 <div align="center">
+1
 <img src="./docs/images/icon.svg" alt="icon"/>
 
 <h1 align="center">ChatGPT Next Web</h1>
